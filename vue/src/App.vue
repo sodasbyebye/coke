@@ -33,9 +33,9 @@ header {
 
 nav {
   width: 100%;
-  font-size: 12px;
+  font-size: 11px;
   text-align: center;
-  margin-top: 2rem;
+  margin-top: 3rem;
 }
 
 nav a.router-link-exact-active {
